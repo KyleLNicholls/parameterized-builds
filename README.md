@@ -138,6 +138,7 @@ Built-in variables:
   * $PRTITLE: title of the PR
   * $PRDESCRIPTION: description of the PR (may be empty)
   * $PRAUTHOR: display name of the author of the PR
+  * $PRUSERNAME: user name of the author of the PR
   * $PREMAIL: display email address of the author of the PR
   * $PRURL: bitbucket URL of the PR
   * $PRSOURCEPROJECT: the project where the source branch of a PR resides (if not using a fork then this is the same as $PROJECT)
